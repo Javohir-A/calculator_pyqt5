@@ -17,7 +17,7 @@ A simple UI calculator project implemented in Python using the PyQt5 module. Thi
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Install the required dependencies (`pyqt5`).
+2. Install the required dependencies (`pyqt5`). For windows `pip install PYQT5`'.
 3. Run the `calculator.py` file to start the calculator.
 
 ## Future Improvements
