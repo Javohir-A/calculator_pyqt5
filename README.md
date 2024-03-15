@@ -13,7 +13,7 @@ A simple UI calculator project implemented in Python using the PyQt5 module. Thi
 - PyQt5
 
 ## Screenshots
-![Calculator Screenshot 1](https://github.com/Javohir-A/calculator_pyqt5/blob/main/screenshots/screenshot_1.png)
+![Calculator Screenshot 1](https://github.com/Javohir-A/calculator_pyqt5/screenshot_1.png)
 
 ## How to Use
 1. Clone the repository to your local machine.
